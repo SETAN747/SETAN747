@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mehta</h1>
-<h3 align="center">III Year Computer Science Student at S.I.E.T Prayagraj</h3>
+<h3 align="center">Computer Science Student at S.I.E.T Prayagraj</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=setan747&label=Profile%20views&color=0e75b6&style=flat" alt="setan747" /> </p>
 
