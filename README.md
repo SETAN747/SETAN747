@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mehta</h1>
-<h3 align="center">Computer Science Student at S.I.E.T Prayagraj</h3>
+<h3 align="center">Frontend Web Developer | React.js, Redux Toolkit, GSAP, and 3D Animations Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=setan747&label=Profile%20views&color=0e75b6&style=flat" alt="setan747" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=setan747" alt="setan747" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Mobile Application Development(Cross Platform)**
+- 🌱 I’m currently learning **Full Stack Web Development and Advanced Animations with GSAP and Three.js**
 
-- 👯 I’m looking to collaborate on **Flutter Development,AI/ML and Blockchain**
+- 👯 I’m looking to collaborate on **Frontend Web Development, 3D Websites (Three.js), React.js, and AI/ML integration projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SETAN747](https://github.com/SETAN747)
 
-- 💬 Ask me about **Mobile Application Development**
+- 💬 Ask me about **React.js, Redux Toolkit, 3D Web Animations, and API Integration**
 
 - 📫 How to reach me **utkarshmehta777@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/utkarsh-mehta-408669252/](https://www.linkedin.com/in/utkarsh-mehta-408669252/)
 
 - ⚡ Fun fact **I will be a Millionaire**
-
-![](https://leetcard.jacoblin.cool/utkarshmehta777?ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
