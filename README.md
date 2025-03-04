@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mehta</h1>
-<h3 align="center">Frontend Web Developer | React.js, Redux Toolkit, GSAP, and 3D Animations Enthusiast</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=setan747&label=Profile%20views&color=0e75b6&style=flat" alt="setan747" /> </p>
 
